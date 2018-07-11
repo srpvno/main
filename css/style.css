@@ -154,7 +154,7 @@ header p {
 .btn-default {
 	color: #ff3300;
 	font-family: 'Open Sans', sans-serif;
-	background-color: transparent;
+	background-color: #222222;
 	border: 1px solid #ff3300;
 	border-radius: 4px;
 	margin: 0 8px;
@@ -225,7 +225,7 @@ img.team-img {
 	padding-bottom: 10px;
 	display: block;
 }
-/* Gallery Section 
+/* Gallery Section
 ==============================*/
 #works-section {
 	padding: 100px 0;
@@ -454,4 +454,3 @@ label {
 	padding: 15% 10%;
 }
 }
-
